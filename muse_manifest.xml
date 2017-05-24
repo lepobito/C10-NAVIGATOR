@@ -1,0 +1,225 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="c10navigator.com" resolutions="1x" timestamp="1495595521142">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="451782369" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="logo-01.png" crc="4123792512" seo="true" mt="1495361150000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>home:phone>1st:phone>most:phone>dewan-kuliah:phone>bt1:phone>rpbk:phone>bp:phone>toilet:phone>legend:phone>3rd:phone>2nd:index"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:phone>home:phone>1st:phone>most:phone>dewan-kuliah:phone>bt1:phone>rpbk:phone>bp:phone>toilet:phone>legend:phone>3rd:phone>2nd:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>home:phone>1st:phone>most:phone>dewan-kuliah:phone>bt1:phone>rpbk:phone>bp:phone>toilet:phone>legend:phone>3rd:phone>2nd:index"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>index:phone>home:phone>1st:phone>most:phone>dewan-kuliah:phone>bt1:phone>rpbk:phone>bp:phone>toilet:phone>legend:phone>3rd:phone>2nd:index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>home:phone>1st:phone>most:phone>dewan-kuliah:phone>bt1:phone>rpbk:phone>bp:phone>toilet:phone>legend:phone>3rd:phone>2nd:index"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:phone>home:phone>1st:phone>most:phone>dewan-kuliah:phone>bt1:phone>rpbk:phone>bp:phone>toilet:phone>legend:phone>3rd:phone>2nd:index"/>
+  </folder>
+  <folder name="images">
+    <file name="u2674-6.png" crc="219538640" ref="phone>index"/>
+    <file name="logo-02.png" crc="3801102671" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2720-4.png" crc="3798919300" ref="phone>index"/>
+    <file name="u163-4.png" crc="529791304" ref="phone>index"/>
+    <file name="pasted-svg-392206x199.svg" crc="291536908" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 392206x199_poster_.png" crc="4214921626" ref="phone>index"/>
+    <file name="u482-4.png" crc="359536157" ref="phone>home"/>
+    <file name="u512-4.png" crc="83409799" ref="phone>home"/>
+    <file name="u492-4.png" crc="3907863344" ref="phone>home"/>
+    <file name="logo-01.png" crc="358944302" seo="true" ref="phone>home:phone>1st:phone>most:phone>dewan-kuliah:phone>bt1:phone>rpbk:phone>bp:phone>toilet:phone>legend:phone>3rd:phone>2nd:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bt1" alt=""/>
+      <caption webpage="toilet" alt=""/>
+      <caption webpage="3rd" alt=""/>
+      <caption webpage="bp" alt=""/>
+      <caption webpage="2nd" alt=""/>
+      <caption webpage="dewan-kuliah" alt=""/>
+      <caption webpage="rpbk" alt=""/>
+      <caption webpage="1st" alt=""/>
+      <caption webpage="legend" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="most" alt=""/>
+    </file>
+    <file name="u355-4.png" crc="486815217" ref="phone>home"/>
+    <file name="u352-6.png" crc="3766616415" ref="phone>home"/>
+    <file name="star.png" crc="4006649527" seo="true" ref="phone>home:phone>most:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="most" alt=""/>
+      <caption webpage="most" alt=""/>
+    </file>
+    <file name="u448-6.png" crc="4082320990" ref="phone>home"/>
+    <file name="u405-4.png" crc="3950278677" ref="phone>home"/>
+    <file name="u358-4.png" crc="4148477433" ref="phone>home"/>
+    <file name="u408-4.png" crc="409772152" ref="phone>home"/>
+    <file name="u411-4.png" crc="3918194814" ref="phone>home"/>
+    <file name="u417-4.png" crc="4152408595" ref="phone>home"/>
+    <file name="246395-u430.png" crc="304873599" ref="phone>home"/>
+    <file name="u2408-4.png" crc="359536157" ref="phone>1st"/>
+    <file name="u2409-4.png" crc="102304475" ref="phone>1st"/>
+    <file name="u2412-4.png" crc="3907863344" ref="phone>1st"/>
+    <file name="1st-crop-u2555.png" crc="4246271985" seo="true" ref="phone>1st">
+      <caption webpage="1st" alt=""/>
+    </file>
+    <file name="u644-4.png" crc="359536157" ref="phone>most"/>
+    <file name="u645-4.png" crc="4124171400" ref="phone>most"/>
+    <file name="u648-4.png" crc="3907863344" ref="phone>most"/>
+    <file name="u729-4.png" crc="4250998438" ref="phone>most"/>
+    <file name="u1601-4.png" crc="187527542" ref="phone>most"/>
+    <file name="u753-4.png" crc="3866502377" ref="phone>most"/>
+    <file name="u1608-4.png" crc="496877430" ref="phone>most"/>
+    <file name="u759-4.png" crc="3920738832" ref="phone>most"/>
+    <file name="u1623-4.png" crc="496877430" ref="phone>most"/>
+    <file name="u768-6.png" crc="3873788445" ref="phone>most"/>
+    <file name="u1629-4.png" crc="496877430" ref="phone>most"/>
+    <file name="u1479-4.png" crc="359536157" ref="phone>dewan-kuliah"/>
+    <file name="u1480-4.png" crc="285981266" ref="phone>dewan-kuliah"/>
+    <file name="u1483-4.png" crc="3907863344" ref="phone>dewan-kuliah"/>
+    <file name="dk.png" crc="168736147" seo="true" ref="phone>dewan-kuliah">
+      <caption webpage="dewan-kuliah" alt=""/>
+    </file>
+    <file name="u1598-4.png" crc="3865092195" ref="phone>dewan-kuliah"/>
+    <file name="placeholder2.png" crc="4129063537" seo="true" ref="phone>dewan-kuliah:phone>bt1:phone>rpbk:phone>toilet">
+      <caption webpage="dewan-kuliah" alt=""/>
+      <caption webpage="dewan-kuliah" alt=""/>
+      <caption webpage="rpbk" alt=""/>
+      <caption webpage="bt1" alt=""/>
+      <caption webpage="bt1" alt=""/>
+      <caption webpage="toilet" alt=""/>
+      <caption webpage="toilet" alt=""/>
+      <caption webpage="toilet" alt=""/>
+      <caption webpage="toilet" alt=""/>
+      <caption webpage="toilet" alt=""/>
+      <caption webpage="toilet" alt=""/>
+    </file>
+    <file name="u1693-4.png" crc="359536157" ref="phone>bt1"/>
+    <file name="u1694-4.png" crc="331069029" ref="phone>bt1"/>
+    <file name="u1697-4.png" crc="3907863344" ref="phone>bt1"/>
+    <file name="bt-crop-u1699.png" crc="4188402122" seo="true" ref="phone>bt1">
+      <caption webpage="bt1" alt=""/>
+    </file>
+    <file name="u1763-4.png" crc="359536157" ref="phone>rpbk"/>
+    <file name="u1764-4.png" crc="285981266" ref="phone>rpbk"/>
+    <file name="u1767-4.png" crc="3907863344" ref="phone>rpbk"/>
+    <file name="rpbk.png" crc="3829785718" seo="true" ref="phone>rpbk">
+      <caption webpage="rpbk" alt=""/>
+    </file>
+    <file name="u1771-4.png" crc="3865092195" ref="phone>rpbk"/>
+    <file name="u1861-4.png" crc="359536157" ref="phone>bp"/>
+    <file name="u1862-4.png" crc="162560005" ref="phone>bp"/>
+    <file name="u1865-4.png" crc="3907863344" ref="phone>bp"/>
+    <file name="ming-crop-u1942.png" crc="290242795" seo="true" ref="phone>bp">
+      <caption webpage="bp" alt=""/>
+    </file>
+    <file name="u1848-4.png" crc="4102247754" ref="phone>bp"/>
+    <file name="u1866-4.png" crc="283776123" ref="phone>bp"/>
+    <file name="u1939-4.png" crc="185252232" ref="phone>bp"/>
+    <file name="suriati-crop-u1984.png" crc="4094532752" seo="true" ref="phone>bp">
+      <caption webpage="bp" alt=""/>
+    </file>
+    <file name="u1975-4.png" crc="489836578" ref="phone>bp"/>
+    <file name="u1978-4.png" crc="283776123" ref="phone>bp"/>
+    <file name="u1981-4.png" crc="185252232" ref="phone>bp"/>
+    <file name="rani-crop-u2003.png" crc="313964640" seo="true" ref="phone>bp">
+      <caption webpage="bp" alt=""/>
+    </file>
+    <file name="u1994-4.png" crc="267501073" ref="phone>bp"/>
+    <file name="u1997-4.png" crc="283776123" ref="phone>bp"/>
+    <file name="u2000-4.png" crc="10123593" ref="phone>bp"/>
+    <file name="saifudin-crop-u2041.png" crc="45583256" seo="true" ref="phone>bp">
+      <caption webpage="bp" alt=""/>
+    </file>
+    <file name="u2032-6.png" crc="4045507216" ref="phone>bp"/>
+    <file name="u2035-4.png" crc="283776123" ref="phone>bp"/>
+    <file name="u2038-4.png" crc="3979912535" ref="phone>bp"/>
+    <file name="u2126-4.png" crc="359536157" ref="phone>toilet"/>
+    <file name="u2127-4.png" crc="3959246770" ref="phone>toilet"/>
+    <file name="u2130-4.png" crc="3907863344" ref="phone>toilet"/>
+    <file name="first floor.png" crc="4087246167" seo="true" ref="phone>toilet:phone>legend">
+      <caption webpage="toilet" alt=""/>
+      <caption webpage="legend" alt=""/>
+    </file>
+    <file name="1st-crop-u2149.png" crc="4075603668" seo="true" ref="phone>toilet">
+      <caption webpage="toilet" alt=""/>
+    </file>
+    <file name="second floor.png" crc="4237346569" seo="true" ref="phone>toilet:phone>legend">
+      <caption webpage="toilet" alt=""/>
+      <caption webpage="legend" alt=""/>
+    </file>
+    <file name="2nd-crop-u2166.png" crc="28350686" seo="true" ref="phone>toilet">
+      <caption webpage="toilet" alt=""/>
+    </file>
+    <file name="3rd floor.png" crc="4129050235" seo="true" ref="phone>toilet">
+      <caption webpage="toilet" alt=""/>
+    </file>
+    <file name="3rd-crop-u2180.png" crc="45339718" seo="true" ref="phone>toilet">
+      <caption webpage="toilet" alt=""/>
+    </file>
+    <file name="u2456-4.png" crc="359536157" ref="phone>legend"/>
+    <file name="u2459-4.png" crc="4137779076" ref="phone>legend"/>
+    <file name="u2454-4.png" crc="3907863344" ref="phone>legend"/>
+    <file name="legend 1.png" crc="3803002562" seo="true" ref="phone>legend">
+      <caption webpage="legend" alt=""/>
+    </file>
+    <file name="legend 2-crop-u2808.png" crc="10951263" seo="true" ref="phone>legend">
+      <caption webpage="legend" alt=""/>
+    </file>
+    <file name="u2488-4.png" crc="359536157" ref="phone>3rd"/>
+    <file name="u2491-4.png" crc="4271003046" ref="phone>3rd"/>
+    <file name="u2486-4.png" crc="3907863344" ref="phone>3rd"/>
+    <file name="3rd-crop-u2576.png" crc="140924462" seo="true" ref="phone>3rd">
+      <caption webpage="3rd" alt=""/>
+    </file>
+    <file name="u2520-4.png" crc="359536157" ref="phone>2nd"/>
+    <file name="u2523-4.png" crc="505376899" ref="phone>2nd"/>
+    <file name="u2518-4.png" crc="3907863344" ref="phone>2nd"/>
+    <file name="2nd-crop-u2562.png" crc="206424903" seo="true" ref="phone>2nd">
+      <caption webpage="2nd" alt=""/>
+    </file>
+    <file name="u3125-4.png" crc="359536157" ref="index"/>
+    <file name="u3126-4.png" crc="83409799" ref="index"/>
+    <file name="u3129-4.png" crc="3907863344" ref="index"/>
+    <file name="u3113-4.png" crc="486815217" ref="index"/>
+    <file name="u3107-6.png" crc="3766616415" ref="index"/>
+    <file name="u3124-6.png" crc="4082320990" ref="index"/>
+    <file name="u3109-4.png" crc="3950278677" ref="index"/>
+    <file name="u3108-4.png" crc="4148477433" ref="index"/>
+    <file name="u3110-4.png" crc="409772152" ref="index"/>
+    <file name="u3111-4.png" crc="3918194814" ref="index"/>
+    <file name="u3112-4.png" crc="4152408595" ref="index"/>
+    <file name="246395-u3122.png" crc="304873599" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="bp.css" crc="3825645269" ref="phone>bp"/>
+      <file name="home.css" crc="3826141910" ref="phone>home"/>
+      <file name="rpbk.css" crc="3960989517" ref="phone>rpbk"/>
+      <file name="index.css" crc="484072215" ref="phone>index"/>
+      <file name="toilet.css" crc="4007233061" ref="phone>toilet"/>
+      <file name="bt1.css" crc="323226373" ref="phone>bt1"/>
+      <file name="dewan-kuliah.css" crc="285063681" ref="phone>dewan-kuliah"/>
+      <file name="legend.css" crc="108353561" ref="phone>legend"/>
+      <file name="most.css" crc="275219976" ref="phone>most"/>
+      <file name="2nd.css" crc="459971650" ref="phone>2nd"/>
+      <file name="3rd.css" crc="63801267" ref="phone>3rd"/>
+      <file name="1st.css" crc="4199769066" ref="phone>1st"/>
+    </folder>
+    <file name="index.html" crc="3983614840" seo="true" mt="1495465451681" redirect="true"/>
+    <file name="home.html" crc="3885709117" seo="true" mt="1495595507502" redirect="true"/>
+    <file name="1st.html" crc="4293356793" seo="true" mt="1495595508685" redirect="true"/>
+    <file name="most.html" crc="198834184" seo="true" mt="1495595509646" redirect="true"/>
+    <file name="dewan-kuliah.html" crc="433415363" seo="true" mt="1495595511127" redirect="true"/>
+    <file name="bt1.html" crc="325364832" seo="true" mt="1495595511937" redirect="true"/>
+    <file name="rpbk.html" crc="3957462517" seo="true" mt="1495595512873" redirect="true"/>
+    <file name="bp.html" crc="180959458" seo="true" mt="1495595515526" redirect="true"/>
+    <file name="toilet.html" crc="3968090490" seo="true" mt="1495595516284" redirect="true"/>
+    <file name="legend.html" crc="3763748879" seo="true" mt="1495595517476" redirect="true"/>
+    <file name="3rd.html" crc="527837023" seo="true" mt="1495595518159" redirect="true"/>
+    <file name="2nd.html" crc="3758659405" seo="true" mt="1495595518986" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4082103330" seo="true" mt="1495595494351" redirect="true"/>
+</manifest>

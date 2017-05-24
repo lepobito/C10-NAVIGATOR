@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html class="nojs html css_verticalspacer" lang="en-US">
+ <head>
+
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <meta name="generator" content="2017.0.2.363"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  
+  <script type="text/javascript">
+   // Redirect to phone/tablet as necessary
+(function(a,b,c){var d=function(){if(navigator.maxTouchPoints>1)return!0;if(window.matchMedia&&window.matchMedia("(-moz-touch-enabled)").matches)return!0;for(var a=["Webkit","Moz","O","ms","Khtml"],b=0,c=a.length;b<c;b++){var f=a[b]+"MaxTouchPoints";if(f in navigator&&navigator[f])return!0}try{return document.createEvent("TouchEvent"),!0}catch(d){}return!1}(),g=function(a){a+="=";for(var b=document.cookie.split(";"),c=0;c<b.length;c++){for(var f=b[c];f.charAt(0)==" ";)f=f.substring(1,f.length);if(f.indexOf(a)==
+0)return f.substring(a.length,f.length)}return null};if(g("inbrowserediting")!="true"){var f,g=g("devicelock");g=="phone"&&c?f=c:g=="tablet"&&b&&(f=b);if(g!=a&&!f)if(window.matchMedia)window.matchMedia("(max-device-width: 415px)").matches&&c?f=c:window.matchMedia("(max-device-width: 960px)").matches&&b&&d&&(f=b);else{var a=Math.min(screen.width,screen.height)/(window.devicePixelRatio||1),g=window.screen.systemXDPI||0,i=window.screen.systemYDPI||0,g=g>0&&i>0?Math.min(screen.width/g,screen.height/i):
+0;(a<=370||g!=0&&g<=3)&&c?f=c:a<=960&&b&&d&&(f=b)}if(f)document.location=f+(document.location.search||"")+(document.location.hash||""),document.write('<style type="text/css">body {visibility:hidden}</style>')}})("desktop","","phone/index.html");
+
+// Update the 'nojs'/'js' class on the html node
+document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
+
+// Check that all required assets are uploaded and up-to-date
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
+</script>
+  
+  <link media="only screen and (max-width: 370px)" rel="alternate" href="http://c10navigator.com/phone/index.html"/>
+  <title>Home</title>
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=451782369" id="pagesheet"/>
+    <!--HTML Widget code-->
+  
+		<style>
+		
+
+/* PUSH MENU */
+#mf-menu {
+    position: fixed;
+    top: 0;
+    left: -150px;
+
+    width: 150px;
+    height: 100%;
+    padding: 50px 30px;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+
+    -webkit-transition: all .3s ease-in;
+       -moz-transition: all .3s ease-in;
+         -o-transition: all .3s ease-in;
+            transition: all .3s ease-in;
+    text-align: center;
+
+    background-color: #52ABD3;
+}
+
+#mf-menu ul {
+    padding: 0;
+    margin-top: 30px;
+}
+
+#mf-menu ul li a {
+    display: block;
+
+    line-height: 50px;
+
+    -webkit-transition: all .3s ease;
+       -moz-transition: all .3s ease;
+         -o-transition: all .3s ease;
+            transition: all .3s ease;
+    text-decoration: none;
+
+    color: #FFFFFF;
+    border-top: 1px solid #EEEEEE;
+}
+#mf-menu ul li:last-child a {
+    border-bottom: 1px solid #EEEEEE;
+}
+#mf-menu ul li a:hover {
+    letter-spacing: 0px;
+color:#B9322F;
+}
+.open #mf-menu {
+    left: 0;
+}
+/* MAIN PAGE */
+.page-wrap {
+position: absolute;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+
+    -webkit-transition: all .3s ease-in;
+       -moz-transition: all .3s ease-in;
+         -o-transition: all .3s ease-in;
+            transition: all .3s ease-in;
+}
+.open .page-wrap {
+    margin-left: 150px;
+}
+
+/* MENU TOGGLE ICON */
+
+button:focus {
+    outline: none;
+}
+#menu-toggle {
+    position: relative;
+
+    width: 51px;
+    height: 51px;
+
+    cursor: pointer;
+
+    border: none;
+    border-radius: 25px;
+    background: #B9322F;
+}
+#menu-toggle:before,
+#menu-toggle:after {
+    position: absolute;
+
+    content: "";
+    content: "";
+    -webkit-transition: all .5s ease;
+       -moz-transition: all .5s ease;
+         -o-transition: all .5s ease;
+            transition: all .5s ease;
+
+    background-color: #FFFFFF;
+}
+
+#menu-toggle:before {
+    top: 12px;
+    left: 25px;
+
+    width: 1px;
+    height: 27px;
+}
+#menu-toggle:after {
+    top: 25px;
+    left: 12px;
+
+    width: 27px;
+    height: 1px;
+}
+
+.open button#menu-toggle:before,
+.open button#menu-toggle:after {
+    -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+            transform: rotate(45deg);
+}
+
+.imgClass{
+    object-fit: cover;
+    height: 70px;
+    width: 70px;
+}
+.lastItem {border-bottom: 1px solid #EEEEEE;}
+
+</style>
+	
+ </head>
+ <body>
+
+  <div class="clearfix borderbox" id="page"><!-- column -->
+   <div class="browser_width colelem" id="u3114-bw">
+    <div id="u3114"><!-- group -->
+     <div class="clearfix" id="u3114_align_to_page">
+      <div class="size_fixed grpelem" id="u3115"><!-- custom html -->
+       
+ <nav id="mf-menu" role="navigation">
+        <div class="brand">
+            <a href="Home.html"><img class="imgClass" src="assets/logo-01.png" alt="Logo"/></a>
+        </div>            
+        <ul>
+            <li class="lineClass"><a class="linkClass" href="1ST.html">First Floor</a></li>
+            <li class="lineClass"><a class="linkClass" href="2ND.html">Second Floor</a></li>
+            <li class="lineClass"><a class="linkClass" href="3RD.html">Third Floor</a></li>
+            <li class="lineClass"><a class="linkClass" href="Legend.html">Legend</a></li>
+            <li class="lastItem"></li>
+        </ul>
+    </nav>
+
+    <div class="page-wrap">
+        <button id="menu-toggle"></button>
+      </div>
+
+      </div>
+      <div class="clearfix grpelem" id="pu3125-4"><!-- column -->
+       <img class="colelem" id="u3125-4" alt="c10 - NAVIGATOR" width="123" height="25" src="images/u3125-4.png?crc=359536157"/><!-- rasterized frame -->
+       <img class="colelem" id="u3126-4" alt="MASS COMMUNICATION" width="171" height="25" src="images/u3126-4.png?crc=83409799"/><!-- rasterized frame -->
+       <img class="colelem" id="u3129-4" alt="discover with ease" width="108" height="26" src="images/u3129-4.png?crc=3907863344"/><!-- rasterized frame -->
+      </div>
+      <div class="clip_frame grpelem" id="u3127"><!-- image -->
+       <img class="block" id="u3127_img" src="images/logo-01.png?crc=358944302" alt="" width="59" height="59"/>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="pointer_cursor clearfix colelem" id="u3102"><!-- group -->
+    <a class="block" href="phone/most.html?devicelock=phone"><!-- Block link tag --></a>
+    <a class="nonblock nontext grpelem" id="u3113-4" href="phone/most.html?devicelock=phone"><!-- rasterized frame --><img id="u3113-4_img" alt="MOST" src="images/u3113-4.png?crc=486815217" data-image-width="146"/></a>
+    <a class="nonblock nontext grpelem" id="u3107-6" href="phone/most.html?devicelock=phone"><!-- rasterized frame --><img id="u3107-6_img" alt="VIEWED PLACES" src="images/u3107-6.png?crc=3766616415" data-image-width="95"/></a>
+    <div class="pointer_cursor clearfix grpelem" id="u3116"><!-- group -->
+     <a class="block" href="phone/most.html?devicelock=phone"><!-- Block link tag --></a>
+     <a class="nonblock nontext clip_frame grpelem" id="u3118" href="phone/most.html?devicelock=phone"><!-- image --><img class="block" id="u3118_img" src="images/star.png?crc=4006649527" alt="" data-image-width="19" data-image-height="18"/></a>
+    </div>
+   </div>
+   <div class="clearfix colelem" id="ppu3103"><!-- group -->
+    <div class="clearfix grpelem" id="pu3103"><!-- column -->
+     <div class="pointer_cursor clearfix colelem" id="u3103"><!-- group -->
+      <a class="block" href="phone/dewan-kuliah.html?devicelock=phone"><!-- Block link tag --></a>
+      <a class="nonblock nontext grpelem" id="u3124-6" href="phone/dewan-kuliah.html?devicelock=phone"><!-- rasterized frame --><img id="u3124-6_img" alt="lecture hall" src="images/u3124-6.png?crc=4082320990" data-image-width="149"/></a>
+     </div>
+     <div class="pointer_cursor clearfix colelem" id="u3104"><!-- column -->
+      <a class="block" href="phone/bt1.html?devicelock=phone"><!-- Block link tag --></a>
+      <div class="position_content" id="u3104_position_content">
+       <div class="pointer_cursor clearfix colelem" id="u3117"><!-- group -->
+        <a class="block" href="phone/bt1.html?devicelock=phone"><!-- Block link tag --></a>
+        <a class="nonblock nontext clip_frame grpelem" id="u3120" href="phone/bt1.html?devicelock=phone"><!-- image --><img class="block" id="u3120_img" src="images/star.png?crc=4006649527" alt="" data-image-width="19" data-image-height="18"/></a>
+       </div>
+       <a class="nonblock nontext colelem" id="u3109-4" href="phone/bt1.html?devicelock=phone"><!-- rasterized frame --><img id="u3109-4_img" alt="tutorial room" src="images/u3109-4.png?crc=3950278677" data-image-width="151"/></a>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix grpelem" id="pu3105"><!-- column -->
+     <div class="pointer_cursor clearfix colelem" id="u3105"><!-- group -->
+      <a class="block" href="phone/3rd.html?devicelock=phone"><!-- Block link tag --></a>
+      <a class="nonblock nontext grpelem" id="u3108-4" href="phone/3rd.html?devicelock=phone"><!-- rasterized frame --><img id="u3108-4_img" alt="LECTURER'S ROOM" src="images/u3108-4.png?crc=4148477433" data-image-width="235"/></a>
+     </div>
+     <div class="pointer_cursor clearfix colelem" id="u3106"><!-- group -->
+      <a class="block" href="phone/toilet.html?devicelock=phone"><!-- Block link tag --></a>
+      <a class="nonblock nontext grpelem" id="u3110-4" href="phone/toilet.html?devicelock=phone"><!-- rasterized frame --><img id="u3110-4_img" alt="looking for a" src="images/u3110-4.png?crc=409772152" data-image-width="146"/></a>
+      <a class="nonblock nontext grpelem" id="u3111-4" href="phone/toilet.html?devicelock=phone"><!-- rasterized frame --><img id="u3111-4_img" alt="Restroom" src="images/u3111-4.png?crc=3918194814" data-image-width="146"/></a>
+      <a class="nonblock nontext grpelem" id="u3112-4" href="phone/toilet.html?devicelock=phone"><!-- rasterized frame --><img id="u3112-4_img" alt="?" src="images/u3112-4.png?crc=4152408595" data-image-width="39"/></a>
+      <a class="nonblock nontext grpelem" id="u3122" href="phone/toilet.html?devicelock=phone"><!-- rasterized frame --><img id="u3122_img" alt="" src="images/246395-u3122.png?crc=304873599" data-image-width="57"/></a>
+     </div>
+    </div>
+   </div>
+   <div class="verticalspacer" data-offset-top="547" data-content-above-spacer="547" data-content-below-spacer="62"></div>
+  </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn2.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js?crc=209076791" type="text/javascript">\x3C/script>');
+</script>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   window.Muse.assets.check=function(d){if(!window.Muse.assets.checked){window.Muse.assets.checked=!0;var b={},c=function(a,b){if(window.getComputedStyle){var c=window.getComputedStyle(a,null);return c&&c.getPropertyValue(b)||c&&c[b]||""}if(document.documentElement.currentStyle)return(c=a.currentStyle)&&c[b]||a.style&&a.style[b]||"";return""},a=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),
+16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
+l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
+f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?setTimeout(function(){g(!0)},5E3):g()}};
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
+window.Muse.assets.check($);/* body */
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
+Muse.Utils.fullPage('#page');/* 100% height page */
+Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+}catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
+
+</script>
+  <!-- RequireJS script -->
+  <script src="scripts/require.js?crc=4234670167" type="text/javascript" async data-main="scripts/museconfig.js?crc=4152223963" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+  
+  <!--HTML Widget code-->
+  
+<script>
+$('.lineClass a:empty').parent().hide();
+
+//Exelent little functions to use any time when class modification is needed
+function hasClass(ele, cls) {
+    return !!ele.className.match(new RegExp('(\\s|^)' + cls + '(\\s|$)'));
+}
+
+function addClass(ele, cls) {
+    if (!hasClass(ele, cls)) ele.className += " " + cls;
+}
+
+function removeClass(ele, cls) {
+    if (hasClass(ele, cls)) {
+        var reg = new RegExp('(\\s|^)' + cls + '(\\s|$)');
+        ele.className = ele.className.replace(reg, ' ');
+    }
+}
+
+//Add event from js the keep the marup clean
+function init() {
+    document.getElementById("menu-toggle").addEventListener("click", toggleMenu);
+}
+
+//The actual fuction
+function toggleMenu() {
+    var ele = document.getElementsByTagName('body')[0];
+    if (!hasClass(ele, "open")) {
+        addClass(ele, "open");
+    } else {
+        removeClass(ele, "open");
+    }
+}
+
+//Prevent the function to run before the document is loaded
+document.addEventListener('readystatechange', function() {
+    if (document.readyState === "complete") {
+        init();
+    }
+});
+</script>
+	
+   </body>
+</html>
